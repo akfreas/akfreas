@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm Alex.
+
+I'm an engineer based in Berlin, Germany.
+
+Sometimes I write on [Medium](https://medium.com/@akfreas) but I always tell myself I'll write there more often.
+
 
 <!--
 **akfreas/akfreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
